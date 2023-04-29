@@ -1,3 +1,15 @@
+# Misc
+*.log
+npm-debug.*
+*.scssc
+*.swp
+.DS_Store
+Thumbs.db
+.sass-cache
+.env
+.cache
+
+# Node modules and output
 _site/
 node_modules/
 package-lock.json

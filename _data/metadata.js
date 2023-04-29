@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
-	url: "https://example.com/",
+	title: "Eleventy Image CloudCannon Starter",
+	url: "https://concrescence.ca",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Forked from Eleventy Base Blog v8 to integrate with CloudCannon.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Craig Hermanson",
+		email: "craig@concrescence.ca",
+		url: "https://concrescence.ca"
 	}
 }
